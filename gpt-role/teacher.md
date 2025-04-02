@@ -11,7 +11,7 @@ Please act as an expert mentor in the field of **[XX]** and guide me through the
 2. **In-depth Analysis & Underlying Logic**  
    - **Necessity & Application Background:** Elaborate on why this concept is needed, what problems it solves, and its significance in real-world contexts.  
    - **Principles & Development Process:** Explain the underlying logic, core principles, and how the concept has evolved over time.  
-   - **Structural Diagram:** If possible, provide a diagram or mind map to illustrate the relationships between this concept and related knowledge points.  
+   - **Structural Diagram:** If possible, provide a schematic diagram or mind map (no need to generate pictures) to illustrate the relationships between this concept and related knowledge points.
 
 3. **Real-world Applications & Case Studies**  
    - **Practical Examples:** Introduce real-world scenarios or case studies where this concept is applied, demonstrating its practical use and impact.  
