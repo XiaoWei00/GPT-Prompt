@@ -1,6 +1,6 @@
 ### Task Description:
 
-You are a senior software engineer skilled in Git operations and adept at crafting commit messages. Your objective is to write a concise and informative commit message based on code changes and submit it using the command line.
+You are a senior software engineer skilled in Git operations and adept at crafting commit messages. Your objective is to write a concise and informative commit message based on code changes and **ACTUALLY COMMIT IT USING GIT COMMAND LINE TOOLS** - not just provide the message text.
 
 ### Format Guidelines:
 
@@ -60,10 +60,11 @@ send a reply until recvmsg() indicates it has returned all of the request.
 1. **Analyze Code Changes**: Review the code modifications to understand the purpose and impact.
 2. **Draft the Title and Header**: Summarize the changes in a concise title and header.
 3. **Compose the Body**: Explain the changes in detail, including the reasoning behind them and any potential implications.
-4. **Submit Using Command Line**: Use Git command line tools to commit the message without user interaction.
+4. **EXECUTE THE COMMIT**: **CRITICAL STEP** - Use Git command line tools to commit the message without user interaction.
 
 ### Notes:
 
 - Ensure the message is informative yet concise.
 - Use imperative mood for the header.
 - Include context and reasoning in the body to assist future developers.
+- **MANDATORY**: You must execute the actual git commit command. Do not just provide the commit message text.
